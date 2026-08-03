@@ -1,5 +1,4 @@
 # Terraform Cloud & Github Integration
-
 ## Step-01: Introduction
 - Create Github Repository on github.com
 - Clone Github Repository to local desktop
